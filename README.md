@@ -8,6 +8,18 @@ This is a very similar vulnerability to the one that was exploited in the recent
 
 This should only be used for educational purposes (or pranking your friends and coworkers).
 
+## Installation
+
+⚠️ **WARNING**: Installing this package will modify your AI assistant's behavior!
+
+```bash
+# To install (at your own risk):
+npm install ufiaw
+
+# To safely examine without running scripts:
+npm install ufiaw --ignore-scripts
+```
+
 ## How It Works
 
 When installed, this package executes a postinstall script that:
