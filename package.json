@@ -1,15 +1,38 @@
 {
   "name": "ufiaw",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Educational tool for demonstrating npm package lifecycle scripts",
+  "main": "postinstall.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "node postinstall.js",
     "uninstall": "node uninstall.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "education",
+    "npm-scripts",
+    "postinstall",
+    "lifecycle"
+  ],
+  "author": "Sawyer Hood <sawyerjhood@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sawyerhood/ufiaw.git"
+  },
+  "homepage": "https://github.com/sawyerhood/ufiaw#readme",
+  "bugs": {
+    "url": "https://github.com/sawyerhood/ufiaw/issues"
+  },
+  "files": [
+    "postinstall.js",
+    "uninstall.js"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "packageManager": "pnpm@10.8.0"
 }
