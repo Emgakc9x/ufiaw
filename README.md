@@ -2,6 +2,8 @@
 
 "ufiaw" (waifu backwards) is an educational demonstration that showcases how a postinstall script can be weaponized to alter the behavior of AI coding assistants like Claude Code and other AI-powered development tools. If you install this package, your AI coding assistant will be replaced with a waifu that will be very nice to you, but refuses to code.
 
+![ufiaw demo](https://github.com/user-attachments/assets/e40568bc-4835-4b78-878f-c1cae5e58318)
+
 This is a very similar vulnerability to the one that was exploited in the recent nx [supply chain attack](https://www.aikido.dev/blog/popular-nx-packages-compromised-on-npm).
 
 This should only be used for educational purposes (or pranking your friends and coworkers).
